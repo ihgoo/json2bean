@@ -3,6 +3,8 @@ json2bean
 
 Convert json string to java bean.
 
+json创建bean类太麻烦，搜到xiwc有json2bean这个项目，fork过来，顺便把mac下文件目录的问题也解决一下。
+
 =========
 
 ### Input like:
